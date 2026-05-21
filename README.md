@@ -6,7 +6,7 @@
 
 ## English
 
-Automatically unlocks and removes Steam achievements based on your actual playtime. Uses SteamHunters data to calculate expected progress and orders achievements by global unlock frequency — no external tools like SAM required.
+Automatically unlocks and removes Steam achievements based on your actual playtime. Uses SteamHunters data to calculate expected progress and orders achievements by global unlock frequency.
 
 ### Features
 
@@ -91,7 +91,7 @@ This project is for educational purposes. Using tools that manipulate Steam achi
 
 ## Português
 
-Desbloqueia e remove conquistas Steam automaticamente com base no seu tempo de jogo real. Utiliza dados do SteamHunters para calcular o progresso esperado e ordena as conquistas pela frequência global de desbloqueio — sem necessidade de ferramentas externas como o SAM.
+Desbloqueia e remove conquistas Steam automaticamente com base no seu tempo de jogo real. Utiliza dados do SteamHunters para calcular o progresso esperado e ordena as conquistas pela frequência global de desbloqueio.
 
 ### Funcionalidades
 
